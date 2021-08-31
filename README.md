@@ -1,4 +1,4 @@
-<h3><b> 🚀 { Dev Sweeter ; } </b></h3>
+## 🚀 { Dev Sweeter ; }
 </br>
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a> &nbsp
@@ -22,7 +22,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang9211&layout=compact&exclude_repo=MinT,KHTA,website&langs_count=10&hide=makefile,shell,batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://syntaxsugar.tistory.com/)](https://syntaxsugar.tistory.com/)
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+<!-- ## 💫 Interest -->
 
 
