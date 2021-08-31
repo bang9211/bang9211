@@ -2,7 +2,7 @@
 
 ###### Backend developer in South Korea.
 
-#### Interests
+### Interests
 <!-- </br> -->
 
 <p>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
 </p>
 
-#### GitHub Stats
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang9211&show_icons=true&count_private=true&theme=github_dark)
 
