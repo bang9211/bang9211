@@ -23,11 +23,19 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp 
 </p>
 
-### GitHub Stats
+
+### Github Stats  
+<table><tr><td valign="top" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bang9211&show_icons=true&count_private=true&theme=github_dark)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang9211&layout=compact&exclude_repo=MinT,KHTA,website&langs_count=10&hide=makefile,shell,batchfile)](https://github.com/anuraghazra/github-readme-stats) -->
+</td><td valign="top" width="50%">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang9211&layout=compact&exclude_repo=MinT,KHTA,website&langs_count=4&hide=makefile,shell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+
+</td></tr></table>  
+
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://syntaxsugar.tistory.com/)](https://syntaxsugar.tistory.com/)
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gksdudxkr@gmail.com)](mailto:gksdudxkr@gmail.com)
