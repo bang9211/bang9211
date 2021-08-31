@@ -29,7 +29,7 @@
 - Location Awareness(especially for bluetooth)
 - WSN(Wireless Sensor Network)
 
-###### Interested in Cloud Natives with
+###### Interested in Cloud Natives with=
 
 <!-- </br> -->
 
