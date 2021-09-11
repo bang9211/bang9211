@@ -52,7 +52,7 @@
 
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang9211&layout=compact&exclude_repo=MinT,KHTA,website&langs_count=4&hide=makefile,shell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bang9211&layout=compact&exclude_repo=MinT,KHTA,website,wire&langs_count=4&hide=makefile,shell,batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
