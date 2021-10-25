@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp -->
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24886864/138747480-1b4ec742-1c46-4af0-9b8a-82ed2dc23547.png" width="250" height="250" align="middle"/>
+</p>
+
 
 ###### Backend developer=
 
